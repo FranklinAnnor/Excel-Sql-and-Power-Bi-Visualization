@@ -1,0 +1,31 @@
+Employee_ ID,Name,Department,Join _Date,Salary,Status,Email,Location
+EMP001,Alice Johnson,HR,2019-03-15,"$48,000",Active,alice.j@company.com,New York
+EMP002,Brian Smith,IT,2020-07-20,"$65,000",Active,brian.s@company.com,Austin
+EMP003,Carla Lopez,Marketing,2018-11-05,"$55,000",Resigned,carla.l@company.com,Miami
+EMP004,Daniel Lee,Sales,2021-01-10,"$60,000",Active,daniel.l@company.com,Chicago
+EMP005,Emma Brown,Finance,2017-09-18,"$70,000",Active,emma.b@company.com,Seattle
+EMP006,Frank Osei,IT,2022-04-12,"$58,000",Active,frank.o@company.com,Houston
+EMP007,Grace Ntim,HR,2020-06-08,"$50,000",On Leave,grace.n@company.com,New York
+EMP008,Henry Kwame,Marketing,2019-12-01,"$52,000",Active,henry.k@company.com,Atlanta
+EMP009,Isabella Mensah,Finance,2021-08-25,"$68,000",Resigned,isabella.m@company.com,Los Angeles
+EMP010,Jake Thompson,Sales,2018-05-30,"$62,000",Active,jake.t@company.com,Boston
+EMP001,Alice Johnson,HR,2019-03-15,"$48,000",Active,alice.j@company.com,New York
+EMP002,Brian Smith,IT,2020-07-20,"$65,000",Active,brian.s@company.com,Austin
+EMP003,Carla Lopez,Marketing,2018-11-05,"$55,000",Resigned,carla.l@company.com,Miami
+EMP004,Daniel Lee,Sales,2021-01-10,"$60,000",Active,daniel.l@company.com,Chicago
+EMP005,Emma Brown,Finance,2017-09-18,"$70,000",Active,emma.b@company.com,Seattle
+EMP006,Frank Osei,IT,2022-04-12,"$58,000",Active,frank.o@company.com,Houston
+EMP007,Grace Ntim,HR,2020-06-08,"$50,000",On Leave,grace.n@company.com,New York
+EMP008,Henry Kwame,Marketing,2019-12-01,"$52,000",Active,henry.k@company.com,Atlanta
+EMP009,Isabella Mensah,Finance,2021-08-25,"$68,000",Resigned,isabella.m@company.com,Los Angeles
+EMP010,Jake Thompson,Sales,2018-05-30,"$62,000",Active,jake.t@company.com,Boston
+EMP001,Alice Johnson,HR,2019-03-15,"$48,000",Active,alice.j@company.com,New York
+EMP002,Brian Smith,IT,2020-07-20,"$65,000",Active,brian.s@company.com,Austin
+EMP003,Carla Lopez,Marketing,2018-11-05,"$55,000",Resigned,carla.l@company.com,Miami
+EMP004,Daniel Lee,Sales,2021-01-10,"$60,000",Active,daniel.l@company.com,Chicago
+EMP005,Emma Brown,Finance,2017-09-18,"$70,000",Active,emma.b@company.com,Seattle
+EMP006,Frank Osei,IT,2022-04-12,"$58,000",Active,frank.o@company.com,Houston
+EMP007,Grace Ntim,HR,2020-06-08,"$50,000",On Leave,grace.n@company.com,New York
+EMP008,Henry Kwame,Marketing,2019-12-01,"$52,000",Active,henry.k@company.com,Atlanta
+EMP009,Isabella Mensah,Finance,2021-08-25,"$68,000",Resigned,isabella.m@company.com,Los Angeles
+EMP010,Jake Thompson,Sales,2018-05-30,"$62,000",Active,jake.t@company.com,Boston
